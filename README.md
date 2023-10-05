@@ -1,6 +1,21 @@
-### Full Stack Todo App developed with PostgreSQL, Express.js, Node.js, React.js and JWT by akifz21
+## Full Stack Todo App developed with PostgreSQL, Express.js, Node.js, React.js and JWT by akifz21
 
-## Project Images :
+### To run locally the app
+
+#### Start server
+
+`cd server && node index.js`
+
+#### Start client
+
+`cd client && npm start`
+
+#### DB
+
+1. Install postgreSQL
+2. Create authtodo DB with script in database.sql
+
+### Project Images :
 
 **Main**
 <img src='./readme-images/main.png'/>
